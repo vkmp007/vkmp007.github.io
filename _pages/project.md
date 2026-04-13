@@ -9,66 +9,32 @@ This page highlights selected coursework, research, technical, or portfolio proj
 
 Students should include only projects they are comfortable showing publicly.
 
-## Project 1: Project Title
+## Project 1: Agentic AI for covered call investment recommendations
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Spring 2026  
-**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
-**Link:** [GitHub Repository](https://github.com/yourusername/your-repo)
+**Tools:** Python, LangChain, LangGraph, OpenAI GPT-4, Streamlit, Alpha Vantage API 
 
-Write 2 to 4 sentences describing the project:
-- What problem did the project address?
-- What data, methods, or tools were used?
-- What was your role?
-- What was the final outcome?
+An automated multi-agent AI trading system that analyzes covered call options for portfolios valued between $500K–$1M. Built a proprietary risk-assessment engine using a custom scoring formula to balance premium income vs. assignment probability, with a real-time Streamlit dashboard for visual analytics.
 
-Example:
+## Project 2: Enterprise task tracking platform
 
-This project explored student performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was used to compare prediction accuracy across multiple methods and summarize which features were most important.
+**Tools:** Python, FastAPI, TypeScript, JWT auth, RBAC 
 
-## Project 2: Project Title
+A scalable full-stack application serving as a centralized hub for cross-functional team task management. Included robust backend services, RESTful APIs, JWT authentication, and role-based access control — with a 25% improvement in API response times through optimized database indexing.
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Fall 2025  
-**Tools:** Python, SQL, Tableau  
-**Link:** [Project Page](https://github.com/yourusername/your-project)
 
-Write 2 to 4 sentences describing the project.
 
-## Project 3: Project Title
+## Project 3: Student organization full-stack apps
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Summer 2025  
-**Tools:** R, ggplot2, Shiny  
-**Link:** [Demo or Repository](https://github.com/yourusername/your-project)
+**Tools:** Python, Next.js, TypeScript, GitHub Copilot
 
-Write 2 to 4 sentences describing the project.
+Developed scalable full-stack applications for student organizations, featuring responsive TypeScript interfaces and APIs. Built in collaboration with cross-functional teams with a focus on security and performance.
+
+
 
 ---
 
-## Suggested Project Writing Format
 
-For each project, try to include:
 
-- project title
-- project type
-- date or semester
-- tools or methods
-- one link
-- a short summary of the work
-
-Recommended summary structure:
-
-1. What the project was about
-2. What you did
-3. What tools or methods you used
-4. What result you produced
-
----
-
-## Simple Reusable Block
-
-Students may copy and reuse this block for additional projects:
 
 ```md
 ## Project Title
