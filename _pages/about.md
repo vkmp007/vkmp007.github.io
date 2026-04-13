@@ -1,43 +1,43 @@
 ---
 permalink: /
-title: "About Lijing Zhu"
+title: "About Vamsi Krishna Vuppalapati"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Assistant Professor at the [University of Houston-Clear Lake](https://www.uhcl.edu/). I earned my Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/). My work focuses on machine learning, graph-based deep learning, and applied data science, with an emphasis on building practical data-driven methods for real-world problems.
+I'm a Full-Stack Python & .NET developer currently pursuing my Master's in Computer Science at the University of Houston – Clear Lake. I build scalable, secure applications at the intersection of modern web development and AI — turning complex business problems into clean, high-performance solutions.
 
-My research interests include machine learning, graph-based modeling, and intelligent data-driven systems. I am particularly interested in developing computational methods that connect theory with application and support meaningful analysis, decision-making, and problem solving in real settings.
-
-In addition to research, I am committed to teaching and mentoring students in data science, analytics, and related areas. I value clear communication, practical problem solving, and the use of computational tools to make complex ideas more accessible and useful.
-
-<div style="border: 1px solid #ddd; border-radius: 14px; padding: 1rem 1.25rem; margin: 1.5rem 0; background: #fafafa;">
-  <strong>Collaboration:</strong> I welcome research collaborations and discussions related to machine learning, graph learning, and applied data science. If you are interested in collaboration, student projects, or related research discussions, please feel free to contact me by email.
-</div>
+With hands-on experience in Python, C#, TypeScript, and Next.js, I've shipped everything from enterprise task-tracking systems to a multi-agent AI trading platform that reduced portfolio analysis time from 3+ hours to under 10 seconds. I leverage AI-assisted development tools like GitHub Copilot and Claude Code daily to write better code, faster.
 
 
-## Research Interests
 
-- Machine learning
-- Graph-based deep learning
-- Data science and analytics
-- Intelligent data-driven systems
+## Skills :
 
-## News
+- Programming languages — Python, TypeScript, C#, SQL, .NET
+- Web frameworks & UI — Next.js, React, FastAPI, .NET Core, Streamlit
+- AI & machine learning — LangChain, LangGraph, GPT-4, Copilot, Claude AI
+- Engineering & security — Architecture, REST APIs, JWT, RBAC, Performance tuning
+- Process & tooling — Git, Agile, Sprint planning, APIs, Parallel processing
 
-- **Septmber 2025**: Joined the [University of Houston-Clear Lake](https://www.uhcl.edu/) as Assistant Professor of Data Science.
-- **August 2025**: Earned a Ph.D. in Data Science from [Bowling Green State University](https://www.bgsu.edu/).
-- **August 2025**: Paper accepted at [CIKM 2025](https://www.cikm2025.org/) on temporal graph neural network robustness: *Leveraging Vulnerabilities in Temporal Graph Neural Networks via Strategic High-Impact Assaults*.
-- **June 2025**: Paper accepted at [ECML PKDD 2025](https://ecmlpkdd.org/2025/) on continual knowledge graph embedding: *ETT-CKGE: Efficient Task-driven Tokens for Continual Knowledge Graph Embedding*.
-- **May 2025**: Paper accepted at IJCNN 2025: *E2CB2former: Effective and Explainable Transformer for CB2 Receptor Ligand Activity Prediction*.
-- **March 2025**: Paper accepted at ICANN 2025: *CIBR: Cross-modal Information Bottleneck Regularization for Robust CLIP Generalization*.
-- **December 2024**: Paper accepted at IEEE Big Data 2024: *Flexible Memory Rotation (FMR): Rotated Representation with Dynamic Regularization to Overcome Catastrophic Forgetting in Continual Knowledge Graph Learning*.
-- **December 2024**: Paper accepted at ICONIP 2024: *HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction*.
-- **Octomber 2023**: Published *SKGHOI: Spatial-Semantic Knowledge Graph for Human-Object Interaction Detection* at the IEEE ICDM Workshop.
+## Projects :
 
-## Students
+- Agentic AI for covered call investment recommendations
 
-I look forward to mentoring undergraduate and graduate students in data science, machine learning, and related areas. This section will be updated as student research projects, collaborations, and mentoring activities develop.
+Capstone Project · University of Houston – Clear Lake
 
+Featured
+An automated multi-agent AI trading system that analyzes covered call options for portfolios valued between $500K–$1M. Built a proprietary risk-assessment engine using a custom scoring formula to balance premium income vs. assignment probability, with a real-time Streamlit dashboard for visual analytics.
+
+- Enterprise task tracking platform
+
+Full Stack Intern · Verzeo
+
+A scalable full-stack application serving as a centralized hub for cross-functional team task management. Included robust backend services, RESTful APIs, JWT authentication, and role-based access control — with a 25% improvement in API response times through optimized database indexing.
+
+- Student organization full-stack apps
+
+Student Assistant · University of Houston – Clear Lake
+
+Developed scalable full-stack applications for student organizations, featuring responsive TypeScript interfaces and APIs. Built in collaboration with cross-functional teams with a focus on security and performance.
